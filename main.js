@@ -114,10 +114,7 @@ let cor37 = document.querySelector('#cor37').value;
 let cor38 = document.querySelector('#cor38').value;
 let cor39 = document.querySelector('#cor39').value;
 let cor40 = document.querySelector('#cor40').value;
-let cor41 = document.querySelector('#cor41').value;
-let cor42 = document.querySelector('#cor42').value;
-let cor43 = document.querySelector('#cor43').value;
-let cor44 = document.querySelector('#cor44').value;
+
 
 document.getElementById('cor1').addEventListener('click', function (e) {
   if (document.getElementById('base').checked) {
